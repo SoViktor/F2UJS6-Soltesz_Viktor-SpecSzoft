@@ -1,0 +1,147 @@
+\documentclass[twoside, twocolumn, 12pt]{article}
+\usepackage[english,magyar]{babel}
+%Utolsónak betöltött érvényes
+\usepackage{t1enc}
+\usepackage{xcolor}
+\usepackage{hulipsum}
+\usepackage[inline]{enumitem}
+\usepackage[]{geometry}
+\setcounter{secnumdepth}{5}
+\setcounter{tocdepth}{5}
+\frenchspacing
+\renewcommand{\thefootnote}{\fnsymbol{footnote}}
+\geometry{inner=3cm,outer=5cm, bindingoffset=1cm, marginparwidth=3cm, marginparsep=0.5cm, columnsep=2cm, headheight=15pt}
+\usepackage{fancyhdr}
+\fancyhf[HLO, HRE]{\thepage}
+\fancyhf[FC]{Miskolci Egyetem}
+\fancyhf[HLE]{\rightmark}
+\fancyhf[HRO]{\leftmark}
+\renewcommand{\footrulewidth}{0.4pt}
+\renewcommand{\headrulewidth}{0pt}
+\fancypagestyle{plain}{%
+\fancyhf{}%
+\fancyhf[FL]{\thepage}%
+}
+\pagestyle{fancy}
+\newlist{myenum}{enumerate}{5}
+\setlist[myenum]{label=(\arabic*)}
+
+\begin{document}
+\thispagestyle{plain}
+%Címhez adatbevitel és kiíratás
+%Külön
+%adatbevitel:
+\title{Helló Világ}
+\author{szerző neve}
+\date{2024.10.15}
+%kiíratás
+%\frontmatter
+\maketitle
+\clearpage
+\renewcommand{\headrulewidth}{0.4pt}
+\tableofcontents
+\clearpage
+
+%\mainmatter
+\section{Abara}
+
+\footnote{Abarara}
+\subsection{Aba}
+\begin{itemize*}[label=\textbullet,%
+itemjoin*={\hspace{1em}és }]
+\item egy
+\item kettő
+\item három
+\item négy
+\end{itemize*}
+
+\begin{enumerate}
+\item teszt
+\item próba
+\begin{enumerate}[label=(\alph*)]
+\item teszt
+\item próba
+\begin{enumerate}
+\item teszt
+\item próba
+\begin{enumerate}
+\item teszt
+\item próba
+\end{enumerate}
+\end{enumerate}
+\end{enumerate}
+\end{enumerate}
+
+\begin{myenum}
+\item saját
+\item enyém
+\begin{myenum}
+\item saját
+\item enyém
+\begin{myenum}
+\item saját
+\item enyém
+\begin{myenum}
+\item saját
+\item enyém
+\begin{myenum}
+\item [(:] saját
+\item enyém
+\end{myenum}
+\end{myenum}
+\end{myenum}
+\end{myenum}
+\end{myenum}
+
+\hulipsum [1-3]
+
+\begin{enumerate}[resume]
+\item gyakorlás
+\end{enumerate}
+
+\hulipsum [1-3]
+
+\begin{description}[style=multiline]
+\item
+\item \textit{slanted}
+\item \hulipsum[1]
+\end{description}
+
+\hulipsum [1-3]
+\subsection{Ra}
+\hulipsum
+%idézőjel: bal: `AltGr+7 *2
+%jobb: ' shift+1 *2
+\section[Csiri]{Csiribi csiribá}
+\subsection{Csiri}
+\hulipsum[3]
+\hulipsum [1-3]
+\hulipsum [1-3]
+\marginpar{RaRaRa}
+\subsubsection{Csir}
+\hulipsum[1]
+\paragraph{Csi}
+\hulipsum[4]
+\marginpar{fázok}
+\subparagraph{Cs}
+\hulipsum[5]
+\subsection{Ribá}
+\hulipsum[6-7]
+\appendix
+\section{Bú}
+\subsection{B}
+\hulipsum[1]
+\subsection{ú}
+\hulipsum [1-3]
+\hulipsum [1-3]
+\hulipsum[1]
+\section{Bá}
+\subsection{B}
+
+\hulipsum [1-3]
+\hulipsum [1-3]
+\hulipsum[1]
+\subsection{á}
+\hulipsum[1]
+
+\end{document}

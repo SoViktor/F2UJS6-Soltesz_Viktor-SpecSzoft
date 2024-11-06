@@ -1,0 +1,603 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.4) (preloaded format=pdflatex 2024.9.17)  1 OCT 2024 11:17
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./KÃ©szfeladat_02_2.tex
+(KÃ©szfeladat_02_2.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-03-30>
+(C:\Program Files\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
+(C:\Program Files\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
+)
+(C:\Program Files\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2023/03/28 3.87 The Babel package
+\babel@savecnt=\count193
+\U@D=\dimen141
+\l@unhyphenated=\language79
+
+(C:\Program Files\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count194
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Program Files\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Program Files\MiKTeX\tex/latex/babel-english\english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language73). Reported on input line 108.
+)
+(C:\Users\au092835\AppData\Roaming\MiKTeX\tex/latex/babel-hungarian\magyar.ldf
+Language: magyar 2019/01/14 v1.5c Magyar (Hungarian) support for babel
+Package babel Info: Making ` an active character on input line 2819.
+\c@footnote@add=\count195
+\c@footnote@ch=\count196
+)) (C:\Program Files\MiKTeX\tex/generic/babel/locale/hu\babel-magyar.tex
+Package babel Info: Importing font and identification data for magyar
+(babel)             from babel-hu.ini. Reported on input line 11.
+)
+(C:\Program Files\MiKTeX\tex/generic/babel/locale/en\babel-english.tex
+Package babel Info: Importing font and identification data for english
+(babel)             from babel-en.ini. Reported on input line 11.
+)
+(C:\Program Files\MiKTeX\tex/latex/base\t1enc.sty
+Package: t1enc 1994/06/01 Standard LaTeX package
+)
+(C:\Program Files\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2022/06/12 v2.14 LaTeX color extensions (UK)
+
+(C:\Program Files\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+
+(C:\Program Files\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2022/09/22 v1.2b Graphics/color driver for pdftex
+)
+(C:\Program Files\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1353.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1357.
+Package xcolor Info: Model `RGB' extended on input line 1369.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1371.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1374.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1375.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1376.
+)
+(C:\Users\au092835\AppData\Roaming\MiKTeX\tex/latex/hulipsum\hulipsum.sty
+Package: hulipsum 2024/04/12 v1.3 Hungarian dummy text (Lorum ipse)
+\c@hulipsum@count=\count197
+)
+(C:\Users\au092835\AppData\Roaming\MiKTeX\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\enitkv@toks@=\toks16
+\labelindent=\skip50
+\enit@outerparindent=\dimen142
+\enit@toks=\toks17
+\enit@inbox=\box51
+\enit@count@id=\count198
+\enitdp@description=\count199
+)
+(C:\Users\au092835\AppData\Roaming\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Program Files\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks18
+)
+(C:\Program Files\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Program Files\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count266
+\Gm@cntv=\count267
+\c@Gm@tempcnt=\count268
+\Gm@bindingoffset=\dimen143
+\Gm@wd@mp=\dimen144
+\Gm@odd@mp=\dimen145
+\Gm@even@mp=\dimen146
+\Gm@layoutwidth=\dimen147
+\Gm@layoutheight=\dimen148
+\Gm@layouthoffset=\dimen149
+\Gm@layoutvoffset=\dimen150
+\Gm@dimlist=\toks19
+
+(C:\Users\au092835\AppData\Roaming\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\au092835\AppData\Roaming\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2024/07/23 v4.3.1 Extensive control of page headers and foote
+rs
+\f@nch@headwidth=\skip51
+\f@nch@O@elh=\skip52
+\f@nch@O@erh=\skip53
+\f@nch@O@olh=\skip54
+\f@nch@O@orh=\skip55
+\f@nch@O@elf=\skip56
+\f@nch@O@erf=\skip57
+\f@nch@O@olf=\skip58
+\f@nch@O@orf=\skip59
+)
+\c@myenumi=\count269
+\c@myenumii=\count270
+\c@myenumiii=\count271
+\c@myenumiv=\count272
+\c@myenumv=\count273
+\enitdp@myenum=\count274
+
+(C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-03-30 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count275
+\l__pdf_internal_box=\box52
+)
+(KÃ©szfeladat_02_2.aux)
+\openout1 = `KÃ©szfeladat_02_2.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+
+(C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count276
+\scratchdimen=\dimen151
+\scratchbox=\box53
+\nofMPsegments=\count277
+\nofMParguments=\count278
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count279
+\MPscratchDim=\dimen152
+\MPnumerator=\count280
+\makeMPintoPDFobject=\count281
+\everyMPtoPDFconversion=\toks21
+)
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* bindingoffset: 28.45274pt
+* modes: twoside 
+* h-part:(L,W,R)=(85.35826pt, 358.22021pt, 142.26378pt)
+* v-part:(T,H,B)=(95.39737pt, 556.47656pt, 143.09605pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=358.22021pt
+* \textheight=556.47656pt
+* \oddsidemargin=41.54102pt
+* \evensidemargin=69.99379pt
+* \topmargin=-16.87262pt
+* \headheight=15.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=85.35826pt
+* \marginparsep=14.22636pt
+* \columnsep=56.9055pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumntrue
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(C:\Program Files\MiKTeX\tex/latex/base\article.cls
+LaTeX Info: Redefining \cal on input line 497.
+LaTeX Info: Redefining \mit on input line 498.
+)
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 39.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 39.
+ [1{C:/Users/au092835/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}
+
+
+
+
+] (KÃ©szfeladat_02_2.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 2.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 2.
+
+Overfull \hbox (14.32465pt too wide) in paragraph at lines 7--7
+ [][] []\T1/cmr/m/n/12 Csi []  
+ []
+
+
+Overfull \hbox (56.87532pt too wide) in paragraph at lines 8--8
+ [][] []\T1/cmr/m/n/12 Cs []  
+ []
+
+)
+\tf@toc=\write3
+\openout3 = `KÃ©szfeladat_02_2.toc'.
+
+ [2
+
+
+]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 48.
+
+Underfull \hbox (badness 5578) in paragraph at lines 52--57
+[]\TS1/cmr/m/n/12 ˆ[]  \T1/cmr/m/n/12 egy []\TS1/cmr/m/n/12 ˆ[]  \T1/cmr/m/n/12
+ ket-t® []\TS1/cmr/m/n/12 ˆ[]  \T1/cmr/m/n/12 há-rom
+ []
+
+
+Underfull \hbox (badness 3386) in paragraph at lines 96--96
+\T1/cmr/m/n/12 mint en-ség gé-szet reg-net®
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [3
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [4]
+Underfull \hbox (badness 3386) in paragraph at lines 102--102
+\T1/cmr/m/n/12 mint en-ség gé-szet reg-net®
+ []
+
+
+Underfull \vbox (badness 6332) has occurred while \output is active []
+
+
+Underfull \hbox (badness 1092) in paragraph at lines 107--108
+   [] \T1/cmr/m/n/12 Ló-rum ip-se olyan bor-
+ []
+
+
+Underfull \hbox (badness 2088) in paragraph at lines 107--108
+\T1/cmr/m/n/12 zasz-tó-an co-gá-lis pa-tás,
+ []
+
+
+Underfull \hbox (badness 2922) in paragraph at lines 107--108
+\T1/cmr/m/n/12 ami fo-gás nél-kül nem
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--108
+\T1/cmr/m/n/12 var-kál meg-fe-le-l®-en.
+ []
+
+
+Underfull \hbox (badness 6316) in paragraph at lines 107--108
+\T1/cmr/m/n/12 A van-do-ba hét mat-
+ []
+
+
+Underfull \hbox (badness 5802) in paragraph at lines 107--108
+\T1/cmr/m/n/12 lan tal-ma-tos fe-ro-di-ka,
+ []
+
+
+Underfull \hbox (badness 1975) in paragraph at lines 107--108
+\T1/cmr/m/n/12 amely-nek ka-pá-rá-sát az
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--108
+\T1/cmr/m/n/12 az iz-mát, a por-nát,
+ []
+
+
+Underfull \hbox (badness 3386) in paragraph at lines 107--108
+\T1/cmr/m/n/12 va-la-mint a m¶-vést és
+ []
+
+
+Underfull \hbox (badness 1067) in paragraph at lines 107--108
+\T1/cmr/m/n/12 vá-tog a van-do-ba bu-lá-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--108
+\T1/cmr/m/n/12 i-nak vó-ká-i-ról. Vó-ká-ja
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--108
+\T1/cmr/m/n/12 a rak-til pro-zá-sa két
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--108
+\T1/cmr/m/n/12 emen kö-zött. Éven-te
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--108
+\T1/cmr/m/n/12 pi-pecs-él-nie az ement,
+ []
+
+
+Underfull \hbox (badness 4582) in paragraph at lines 107--108
+\T1/cmr/m/n/12 azon fong-nia a lál-tos
+ []
+
+
+Underfull \hbox (badness 7451) in paragraph at lines 107--108
+\T1/cmr/m/n/12 böl-lé-sé-r®l. A van-do-ba
+ []
+
+
+Underfull \hbox (badness 3758) in paragraph at lines 107--108
+\T1/cmr/m/n/12 nin-ti és az emen elé
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--108
+\T1/cmr/m/n/12 az iz-ma bam-zás-ban,
+ []
+
+
+Underfull \hbox (badness 6348) in paragraph at lines 107--108
+\T1/cmr/m/n/12 a ha-sás szeg-esz-ké-jé-vel
+ []
+
+
+Underfull \hbox (badness 5022) in paragraph at lines 107--108
+\T1/cmr/m/n/12 log-ál-ja össze, leg-alább
+ []
+
+
+Underfull \hbox (badness 2894) in paragraph at lines 107--108
+\T1/cmr/m/n/12 el®tt. Az ement össze
+ []
+
+
+Underfull \hbox (badness 3078) in paragraph at lines 107--108
+\T1/cmr/m/n/12 kell log-ál-nia ak-kor is,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 107--108
+\T1/cmr/m/n/12 egyes bam-zás-ban, a
+ []
+
+[5]
+Underfull \hbox (badness 3386) in paragraph at lines 110--110
+\T1/cmr/m/n/12 mint en-ség gé-szet reg-net®
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [6]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \hbox (badness 3386) in paragraph at lines 115--115
+\T1/cmr/m/n/12 mint en-ség gé-szet reg-net®
+ []
+
+[7]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \hbox (badness 1502) in paragraph at lines 115--115
+[]\T1/cmr/m/n/12 Az is so-dik, hogy ilyen,
+ []
+
+
+Underfull \hbox (badness 1331) in paragraph at lines 115--115
+\T1/cmr/m/n/12 brif-fek van-nak a gya-ro-kok-
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [8]
+Underfull \hbox (badness 2894) in paragraph at lines 115--115
+\T1/cmr/m/n/12 sik-kaszt, hogy egy grá-lyot
+ []
+
+
+Underfull \hbox (badness 1762) in paragraph at lines 115--115
+\T1/cmr/m/n/12 is-ság ál-tal hos-kony ,,csa-lan
+ []
+
+
+Underfull \hbox (badness 1033) in paragraph at lines 115--115
+\T1/cmr/m/n/12 adás 2002'' zöl-di pó-rék sé-
+ []
+
+
+Underfull \hbox (badness 1527) in paragraph at lines 115--115
+\T1/cmr/m/n/12 ri-ke bu-ca nyir-kál-kod-nia. A
+ []
+
+
+Underfull \vbox (badness 6332) has occurred while \output is active []
+
+
+Underfull \hbox (badness 1221) in paragraph at lines 115--115
+\T1/cmr/m/n/12 já-val med-d® borc sa-vít-hat-
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [9]
+Underfull \hbox (badness 3386) in paragraph at lines 118--118
+\T1/cmr/m/n/12 mint en-ség gé-szet reg-net®
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [10]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [11]
+Underfull \hbox (badness 3386) in paragraph at lines 119--119
+\T1/cmr/m/n/12 mint en-ség gé-szet reg-net®
+ []
+
+
+Underfull \vbox (badness 6332) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [12]
+Underfull \hbox (badness 2538) in paragraph at lines 124--126
+ \T1/cmr/bx/n/12 2.1.1.1. Csi[] \T1/cmr/m/n/12 Az is so-dik,
+ []
+
+
+Underfull \hbox (badness 1360) in paragraph at lines 127--128
+\T1/cmr/m/n/12 het, hogy ez úgy sik-kaszt,
+ []
+
+[13]
+Underfull \hbox (badness 2096) in paragraph at lines 129--129
+\T1/cmr/m/n/12 E haj-ci-h® hit-let-ke-re a te-
+ []
+
+
+Underfull \hbox (badness 1762) in paragraph at lines 129--129
+\T1/cmr/m/n/12 is-ság ál-tal hos-kony ,,csa-lan
+ []
+
+
+Underfull \hbox (badness 1033) in paragraph at lines 129--129
+\T1/cmr/m/n/12 adás 2002'' zöl-di pó-rék sé-
+ []
+
+
+Underfull \hbox (badness 1527) in paragraph at lines 129--129
+\T1/cmr/m/n/12 ri-ke bu-ca nyir-kál-kod-nia. A
+ []
+
+
+Underfull \hbox (badness 1221) in paragraph at lines 129--130
+\T1/cmr/m/n/12 já-val med-d® borc sa-vít-hat-
+ []
+
+[14]
+Underfull \hbox (badness 3386) in paragraph at lines 135--135
+\T1/cmr/m/n/12 mint en-ség gé-szet reg-net®
+ []
+
+
+Underfull \vbox (badness 6332) has occurred while \output is active []
+
+ [15]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \hbox (badness 3386) in paragraph at lines 136--136
+\T1/cmr/m/n/12 mint en-ség gé-szet reg-net®
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [16]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [17]
+Underfull \hbox (badness 3386) in paragraph at lines 141--141
+\T1/cmr/m/n/12 mint en-ség gé-szet reg-net®
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [18]
+Underfull \hbox (badness 3386) in paragraph at lines 142--142
+\T1/cmr/m/n/12 mint en-ség gé-szet reg-net®
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [19]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [20]
+(KÃ©szfeladat_02_2.aux) ) 
+Here is how much of TeX's memory you used:
+ 4851 strings out of 476331
+ 81358 string characters out of 5797571
+ 1863660 words of memory out of 5000000
+ 25262 multiletter control sequences out of 15000+600000
+ 525328 words of font info for 58 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 57i,11n,70p,1890b,591s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\au092835\AppData\Local\MiKTeX\fonts/pk/ljfo
+ur/jknappen/ec/dpi600\ecti1200.pk> <C:\Users\au092835\AppData\Local\MiKTeX\font
+s/pk/ljfour/jknappen/ec/dpi600\ecrm1000.pk> <C:\Users\au092835\AppData\Local\Mi
+KTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0700.pk> <C:\Users\au092835\AppData
+\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\au09283
+5\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1440.pk> <C:\User
+s\au092835\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm0800.pk>
+ <C:\Users\au092835\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecb
+x1200.pk> <C:\Users\au092835\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/d
+pi600\ecbx1728.pk> <C:\Users\au092835\AppData\Local\MiKTeX\fonts/pk/ljfour/jkna
+ppen/ec/dpi600\ecrm1200.pk> <C:\Users\au092835\AppData\Local\MiKTeX\fonts/pk/lj
+four/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\au092835\AppData\Local\MiKTeX\fo
+nts/pk/ljfour/jknappen/ec/dpi600\ecrm2074.pk>
+Output written on KÃ©szfeladat_02_2.pdf (20 pages, 117591 bytes).
+PDF statistics:
+ 279 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
