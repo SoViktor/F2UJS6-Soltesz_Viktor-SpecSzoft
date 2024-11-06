@@ -1,0 +1,71 @@
+\documentclass{article}
+\usepackage{graphicx}
+\usepackage{tikz}
+\usepackage{multicol}
+\usepackage{hulipsum}
+\usepackage{xcolor, colortbl}
+\usepackage{array}
+\usepackage[hungarian]{babel}
+
+\title{Készfeladatok07.01}
+\author{Viktor Soltész}
+\date{November 2024}
+
+\newcounter{gondolatszam}[section]
+\renewcommand{\thegondolatszam}{\thesection.\arabic{gondolatszam}}
+
+\newlength{\szelesseg}
+\setlength{\szelesseg}{1.5em}
+
+\newenvironment{kulcsgondolatok}[1][Kulcsgondolatok]{%
+    \par\medskip
+    \noindent
+    \begin{center}
+    \begin{minipage}{0.8\textwidth}
+    \vspace{0.5em}
+    \centering\textbf{#1} \par
+    \vspace{0.5em}
+    \hrule
+    \vspace{0.5em}
+}{%
+    \vspace{0.5em}
+    \hrule
+    \vspace{0.5em}
+    \end{minipage}
+    \end{center}
+    \par\medskip
+}
+
+\newcommand{\gondolat}{%
+    \par\noindent
+    \makebox[\szelesseg][l]{\refstepcounter{gondolatszam}\thegondolatszam}%
+}
+
+\begin{document}
+
+\maketitle
+
+\section{Teszt}
+
+\begin{kulcsgondolatok}[Nagyon Fontos teszt]
+\gondolat Gondat egy \\
+\gondolat Gondolat kettő.
+\end{kulcsgondolatok}
+
+\begin{kulcsgondolatok}
+    \gondolat \hulipsum[1]
+\end{kulcsgondolatok}
+
+\section{Második}
+\begin{kulcsgondolatok}[Fontos teszt]
+    \gondolat \hulipsum[2]
+\end{kulcsgondolatok}
+
+\begin{kulcsgondolatok}
+    \foreach \i in {3,6,...,50} {
+    \i, 
+}
+\end{kulcsgondolatok}
+
+
+\end{document}
