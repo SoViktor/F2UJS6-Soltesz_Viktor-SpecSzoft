@@ -1,0 +1,49 @@
+\documentclass{article}
+\usepackage{graphicx} % Required for inserting images
+\usepackage[hungarian]{babel}
+\usepackage{amsthm}
+
+\title{Készfeladat04.01}
+\author{Viktor Soltész}
+\date{November 2024}
+
+
+\newtheorem{theorem}{Tétel}
+\newtheorem{lemma}[theorem]{Lemma}
+\newtheorem{definition}{Definíció}[section]
+
+\begin{document}
+
+\maketitle
+
+\begin{theorem}[Szerző Név]
+Az első tétel.
+\end{theorem}
+
+\begin{theorem}
+A második tétel.
+\end{theorem}
+
+\begin{lemma}
+Első Lemma.
+\end{lemma}
+
+\begin{proof}[A Lemma bizonyítása]
+Lemma bizonyítása,\ref{Lemma}.
+\end{proof}
+
+
+
+\section{Introduction}
+
+\begin{definition}
+      A valószínűségszámítás olyan jelenségekkel foglalkozik, amelyek többször is megismétlődhetnek, de amelyek kimenetelét előre nem lehet megmondani. A véletlenszerű jelenségeket és megfigyelésüket kísérletnek nevezzük. Kísérlet tehát például a fenti példákban a kockadobás, a pénzfeldobás, a céltáblára lövés, a lottó húzás. Egy elemi eseményről egyértelműen eldönthető, hogy bekövetkezik vagy nem.
+\end{definition}
+
+\begin{definition}
+    A kísérletek kimeneteleit egyelemű halmazokként tartalmazó eseményeket elemi eseményeknek hívjuk. 
+
+Az elemi események összessége (halmaza) az eseménytér.
+\end{definition}
+
+\end{document}
